@@ -89,7 +89,7 @@ sw.*
 # Vim swap files
 *.swp
 
-*.contentful.json
-*package-lock.json
-*package.json
-*.env
+/.contentful.json
+/package-lock.json
+/package.json
+/.env
